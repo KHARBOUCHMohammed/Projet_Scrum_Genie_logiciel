@@ -1,4 +1,4 @@
-# Projet_Scrum_G-nie_logiciel
+# Projet_Scrum_Génie_logiciel
 
 # Ruby
 Au cours de ce TP on a travaillé avec le langage Ruby pour convertir un fichier PDF en fichier Text,en utilisant "pdf2txt.rb" Premièrement le fichier PDF a été convertis à une data sous forme texte. Ensuite pour récupérer le titre, le nom et le résumé (abstract) du fichier on a divisé cette data à une table pour chercher le mots clé abstract. Et on a fait des boucles pour les mettre en ordre. à la fin, toutes les informations qui existent, ils vont etre envoyer dans un fichier texte. En plus le temps d'éxecution avant et apres de ce processus a été calculé.
